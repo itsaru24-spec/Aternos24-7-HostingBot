@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": GROCKAI.aternos.me:41142
+    "port": spookfish.aternos.host:41142
     "version": "",
     "try-creative": false
   },
